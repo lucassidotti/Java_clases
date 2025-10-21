@@ -20,5 +20,8 @@ public class main {
         String nombre = "Lucas";
         int edad = 31;
         boolean estudiante = true;
+        System.out.println("Mi nombre es: "+nombre);
+        System.out.println("Mi edad es: "+edad);
+        System.out.println("Soy estudiante? "+estudiante);
     }
 }
