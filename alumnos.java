@@ -42,7 +42,7 @@ public class alumnos {
             }
             System.out.println("Nota mas baja: "+menor);
             System.out.println("Nota mas alta: "+mayor);
-
+            sc.close();
 
 
 

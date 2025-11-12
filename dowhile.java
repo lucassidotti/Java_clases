@@ -12,7 +12,9 @@ public class dowhile {
             System.out.println("4. Salir");
             opcion=sc.nextInt();
         } while (opcion!=4);
-            System.out.println("Saliendo...");
+        System.out.println("Saliendo...");
+        
+        sc.close();
         
 
 
